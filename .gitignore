@@ -1,0 +1,12 @@
+thinpad_top.cache
+thinpad_top.hw
+vivado.jou
+vivado.log
+vivado_pid5188.str
+.Xil
+thinpad_top.ip_user_files
+thinpad_top.runs
+thinpad_top.sim
+vivado_pid*.str
+vivado_*
+sram.wcfg
